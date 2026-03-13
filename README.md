@@ -4,6 +4,8 @@ A customizable, open-source frontend for the [Venice AI](https://venice.ai) API.
 
 Venice gives you access to powerful AI models for text, images, audio, music, and video. OpenVenice gives you a clean interface to use them — one you own, can modify, and can host yourself.
 
+https://github.com/nikshepsvn/openvenice/raw/main/assets/demo.mp4
+
 ## Why OpenVenice?
 
 **Your interface, your rules.** Venice's official UI is great, but sometimes you want more control:
