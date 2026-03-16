@@ -1,6 +1,6 @@
 import type { VeniceError } from '../types/venice'
 
-const BASE_URL = '/venice/api/v1'
+const BASE_URL = 'https://api.venice.ai/api/v1'
 
 export class VeniceAPIError extends Error {
   status: number
